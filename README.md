@@ -19,7 +19,6 @@ flowchart LR
 - [Presentation](docs/CDP-Implementation-in-C.pdf) — packet layout, thread design, and anonymized lab results.
 - [Packet notes](docs/PACKET-NOTES.md) — untagged frame offsets, checksum flowchart, and the Addresses TLV compatibility fix.
 - [Architecture](docs/ARCHITECTURE.md) — module map, shared state, and shutdown.
-- [Validation](docs/VALIDATION.md) — offline checks and the scope of the live lab evidence.
 
 ## Runtime
 
